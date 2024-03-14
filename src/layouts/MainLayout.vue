@@ -34,10 +34,16 @@ defineOptions({
 
 const linksList = [
   {
+    title: 'Home',
+    caption: 'sweet home',
+    icon: 'home',
+    link: '/',
+  },
+  {
     title: 'Places',
     caption: 'listing stuff',
     icon: 'place',
-    link: '/',
+    link: '/places',
   },
 ]
 
