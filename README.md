@@ -1,6 +1,7 @@
 # LocalSearch Test APP (localsearch-fe)
 
 Framework used: Quasar (Vue.js)
+##### Node version: 16
 
 ## Install the dependencies
 
