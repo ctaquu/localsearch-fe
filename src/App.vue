@@ -1,9 +1,9 @@
-<template>
-  <router-view />
+<template lang="pug">
+  router-view
 </template>
 
 <script setup>
 defineOptions({
-  name: 'App'
-});
+  name: 'App',
+})
 </script>
